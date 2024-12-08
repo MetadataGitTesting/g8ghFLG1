@@ -1,0 +1,75 @@
+name: adelina.okuneva
+description: neural-net
+version: 0.0.1
+author: myghykt1.0xsev1iq@ifwuyifo.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: adelinaokuneva
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 20:34:15'
+pipelines:
+  pipelines/Sidney_Lesch_IIIAndy_GravityLeonardo_Harvey:
+    name: Sidney_Lesch_IIIAndy_GravityLeonardo_Harvey
+    description: null
+    author: myghykt1.0xsev1iq@ifwuyifo.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2024-12-08 20:34:15'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+  pipelines/Reanna_Stanton_VSy_BurnetteDenis_Hirthe:
+    name: Reanna_Stanton_VSy_BurnetteDenis_Hirthe
+    description: null
+    author: myghykt1.0xsev1iq@ifwuyifo.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2024-12-08 20:34:15'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 20:34:15'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T20:34:15.74036Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '241400458'
+  createdAt: '2024-12-08T20:34:15.74036Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
